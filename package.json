@@ -1,0 +1,59 @@
+{
+  "name": "agent-stack-directory-mcp",
+  "version": "0.1.0",
+  "description": "MCP server and open dataset for Agent Stack Directory: let AI coding tools search, inspect and compare AI agent infrastructure tools.",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "tsc -p .",
+    "prepare": "tsc -p .",
+    "test": "npm run build && node --test test/*.test.mjs",
+    "test:remote": "node scripts/remote-check.mjs",
+    "build:worker": "node scripts/build-worker.mjs",
+    "snapshot": "node scripts/snapshot.mjs",
+    "start": "node dist/stdio.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ai-agents",
+    "agent-infrastructure",
+    "directory",
+    "dataset"
+  ],
+  "author": "Agent Stack Directory <hello@agentstackdirectory.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@cfworker/json-schema": "^4.1.1",
+    "@types/node": "^26.6.5",
+    "esbuild": "^0.28.2",
+    "typescript": "^7.0.2"
+  },
+  "homepage": "https://agentstackdirectory.com/mcp/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmansystems/agent-stack-directory.git"
+  },
+  "bin": {
+    "agent-stack-directory-mcp": "dist/stdio.js"
+  },
+  "types": "dist/server.d.ts",
+  "exports": {
+    ".": "./dist/server.js",
+    "./core": "./dist/core.js"
+  },
+  "files": [
+    "dist",
+    "data",
+    "README.md",
+    "LICENSE",
+    "DATA-LICENSE.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}

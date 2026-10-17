@@ -1,0 +1,12 @@
+key,name,description
+browsers,Browsers & Computer Use,Cloud browsers and SDKs that let agents use the web.
+sandboxes,Code Sandboxes,Isolated machines where agents can safely run code.
+memory,Memory & Context,Long-term memory layers so agents remember users and tasks.
+search,Search & Web Data,APIs that give agents fresh web search and clean page content.
+email,Email,Inboxes and sending APIs for agents that talk over email.
+integrations,Integrations & Auth Tools,Prebuilt tool calls and managed OAuth for thousands of apps.
+payments,Payments,"Ways for agents to charge, pay, and hold credentials."
+voice,Voice Agents,Platforms for phone and voice agents.
+observability,Observability & Evals,"Tracing, debugging, and evals for agents in production."
+frameworks,Agent Frameworks,Libraries for building agents and multi-agent workflows.
+auth,Identity,"Login, permissions, and token handling for agents."
