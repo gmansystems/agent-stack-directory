@@ -21,8 +21,10 @@ function withCors(res) {
 }
 let shared;
 /**
- * Handles one HTTP request. Returns null for browser page views (GET with Accept: text/html)
- * so the caller can serve the human-readable /mcp/ page instead.
+ * Handles one HTTP request. Returns null for plain GET/HEAD page views so the caller can serve the
+ * human-readable /mcp/ page (browsers, link-preview bots, curl). Only a GET that asks for an SSE stream
+ * (Accept: text/event-stream, the Streamable HTTP listen request) gets 405, as the spec allows for
+ * servers that do not offer a standalone stream.
  */
 export async function handleMcpRequest(request, load) {
     const method = request.method.toUpperCase();
@@ -30,11 +32,11 @@ export async function handleMcpRequest(request, load) {
         return new Response(null, { status: 204, headers: CORS });
     if (method === "GET" || method === "HEAD") {
         const accept = request.headers.get("accept") ?? "";
-        if (accept.includes("text/html"))
+        if (!accept.includes("text/event-stream"))
             return null;
-        return withCors(new Response(JSON.stringify({ jsonrpc: "2.0", error: { code: -32000, message: "Method not allowed. This stateless endpoint accepts POST (Streamable HTTP). Docs: https://agentstackdirectory.com/mcp/" }, id: null }), {
+        return withCors(new Response(JSON.stringify({ jsonrpc: "2.0", error: { code: -32000, message: "Method not allowed. This stateless endpoint accepts POST (Streamable HTTP) and does not offer a standalone SSE stream. Docs: https://agentstackdirectory.com/mcp/" }, id: null }), {
             status: 405,
-            headers: { allow: "POST, OPTIONS", "content-type": "application/json" },
+            headers: { allow: "GET, POST, OPTIONS", "content-type": "application/json" },
         }));
     }
     if (method !== "POST") {

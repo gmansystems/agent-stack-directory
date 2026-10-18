@@ -26,6 +26,8 @@ Example prompts:
 - "Compare E2B and Daytona."
 - "What are the alternatives to Browserbase?"
 
+Listed in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=com.agentstackdirectory) as `com.agentstackdirectory/agent-stack-directory`. Server card: https://agentstackdirectory.com/.well-known/mcp/server-card.json
+
 ## Install (remote, nothing to run locally)
 
 ### Claude Code

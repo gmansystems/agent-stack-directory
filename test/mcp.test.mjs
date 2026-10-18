@@ -51,9 +51,12 @@ test("Streamable HTTP handler works with the MCP client", async () => {
   await client.close();
 });
 
-test("HTTP handler: browser GET falls through, plain GET is 405, OPTIONS is CORS", async () => {
+test("HTTP handler: page GETs fall through, SSE GET is 405, OPTIONS is CORS", async () => {
   const loader = async () => data;
   assert.equal(await handleMcpRequest(new Request("https://x/mcp", { headers: { accept: "text/html" } }), loader), null);
+  assert.equal(await handleMcpRequest(new Request("https://x/mcp"), loader), null);
+  assert.equal(await handleMcpRequest(new Request("https://x/mcp", { headers: { accept: "*/*" } }), loader), null);
+  assert.equal(await handleMcpRequest(new Request("https://x/mcp", { method: "HEAD" }), loader), null);
   const g = await handleMcpRequest(new Request("https://x/mcp", { headers: { accept: "text/event-stream" } }), loader);
   assert.equal(g.status, 405);
   const o = await handleMcpRequest(new Request("https://x/mcp", { method: "OPTIONS" }), loader);

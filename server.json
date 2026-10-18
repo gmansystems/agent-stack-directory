@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.agentstackdirectory/agent-stack-directory",
+  "title": "Agent Stack Directory",
+  "description": "Search, inspect and compare infrastructure tools for AI agents from a checked directory.",
+  "version": "0.1.0",
+  "websiteUrl": "https://agentstackdirectory.com/mcp/",
+  "repository": {
+    "url": "https://github.com/gmansystems/agent-stack-directory",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://agentstackdirectory.com/mcp"
+    }
+  ]
+}
