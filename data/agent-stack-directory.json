@@ -4,7 +4,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Agent Stack Directory (https://agentstackdirectory.com)",
-  "snapshot_date": "2026-10-17",
+  "snapshot_date": "2026-10-18",
   "fields": [
     "slug",
     "name",
@@ -72,7 +72,7 @@
       "tagline": "Cloud Sandbox for Agents | Agent 37",
       "open_source": false,
       "added": "2026-10-16",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "agentmail",
@@ -83,7 +83,7 @@
       "tagline": "AgentMail | Email Inbox API for AI Agents",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "agentops",
@@ -94,7 +94,7 @@
       "tagline": "AgentOps",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "aio-sandbox",
@@ -105,7 +105,7 @@
       "tagline": "AIO Sandbox",
       "open_source": true,
       "added": "2026-10-16",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "anchor-browser",
@@ -116,7 +116,7 @@
       "tagline": "Anchor - Secure Infrastructure for Computer Use Agents",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "apify",
@@ -127,7 +127,7 @@
       "tagline": "Apify: Marketplace of ready-to-run tools for AI",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "arcade",
@@ -138,7 +138,7 @@
       "tagline": "Arcade: The Actions Runtime for Enterprise AI Agents",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "auth0-for-ai-agents",
@@ -149,7 +149,7 @@
       "tagline": "Ship AI Agents Faster & More Securely | Auth0",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "braintrust",
@@ -160,7 +160,7 @@
       "tagline": "Braintrust - The active observability platform for agents",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "brave-search-api",
@@ -171,7 +171,7 @@
       "tagline": "Brave Search API | Brave",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "browser-use",
@@ -182,7 +182,7 @@
       "tagline": "Browser Use Agents & Browser Infrastructure | Browser Use",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "browserbase",
@@ -193,7 +193,7 @@
       "tagline": "Browserbase",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "cloudflare-sandbox-sdk",
@@ -204,7 +204,7 @@
       "tagline": "Overview · Cloudflare Sandboxes docs",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "cognee",
@@ -215,7 +215,7 @@
       "tagline": "Cognee - Open-Source Agent Memory Platform",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "coinbase-x402",
@@ -226,7 +226,7 @@
       "tagline": "x402",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "composio",
@@ -237,7 +237,7 @@
       "tagline": "Composio",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "crewai",
@@ -248,7 +248,7 @@
       "tagline": "CrewAI",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "daytona",
@@ -259,7 +259,7 @@
       "tagline": "Daytona - Secure Infrastructure for Running AI-Generated Code",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "e2b",
@@ -270,7 +270,7 @@
       "tagline": "E2B | The Enterprise AI Agent Cloud",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "elevenlabs-agents",
@@ -281,7 +281,7 @@
       "tagline": "Deploy AI Agents in Minutes, Not Months | Chat & Voice",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "exa",
@@ -292,7 +292,7 @@
       "tagline": "Exa | Search API for AI Agents, Real-Time Web Data",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "firecrawl",
@@ -303,7 +303,7 @@
       "tagline": "Firecrawl | Web Data API for AI Agents",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "helicone",
@@ -314,7 +314,7 @@
       "tagline": "Helicone / AI Gateway & LLM Observability",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "hyperbrowser",
@@ -325,7 +325,7 @@
       "tagline": "Hyperbrowser | AI agents’ gateway to the internet",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "jina-reader",
@@ -336,7 +336,7 @@
       "tagline": "Reader API - Jina AI",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "kernel",
@@ -347,7 +347,7 @@
       "tagline": "KERNEL: browser infrastructure for web agents and automations",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "langfuse",
@@ -358,7 +358,7 @@
       "tagline": "Langfuse: Open Source Agent Evals & Observability",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "langgraph",
@@ -369,7 +369,7 @@
       "tagline": "LangGraph: Agent Orchestration Framework for Reliable AI Agents",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "langsmith",
@@ -380,7 +380,7 @@
       "tagline": "LangSmith: Agent & LLM Observability Platform",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "letta",
@@ -391,7 +391,7 @@
       "tagline": "Letta | Machines that learn",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "mailgun",
@@ -402,7 +402,7 @@
       "tagline": "Transactional Email API Service For Developers - Transactional Email API Service For Developers | Mailgun",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "mastra",
@@ -413,7 +413,7 @@
       "tagline": "TypeScript AI Framework for Agents and Apps | Mastra",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "mem0",
@@ -424,7 +424,7 @@
       "tagline": "Mem0 - AI Memory Layer for your Agents & Apps | Persistent Context",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "modal",
@@ -435,7 +435,7 @@
       "tagline": "Modal: The platform for production AI",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "nango",
@@ -446,7 +446,7 @@
       "tagline": "Nango | Build integrations with AI",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "openai-agents-sdk",
@@ -457,7 +457,7 @@
       "tagline": "OpenAI Agents SDK",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "parallel",
@@ -468,7 +468,7 @@
       "tagline": "Parallel - Web Infrastructure for AI Agents",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "pickle-browser",
@@ -479,7 +479,7 @@
       "tagline": "Pickle Browser: tell it what to do, watch it do it",
       "open_source": false,
       "added": "2026-10-16",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "pipedream-connect",
@@ -490,7 +490,7 @@
       "tagline": "Pipedream, The integration layer for AI agents",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "pydantic-ai",
@@ -501,7 +501,7 @@
       "tagline": "Pydantic AI | Pydantic Docs",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "resend",
@@ -512,7 +512,7 @@
       "tagline": "Resend · Email for developers",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "retell-ai",
@@ -523,7 +523,7 @@
       "tagline": "AI Voice Agents Platform to Automate Phone Calls | Retell AI",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "runloop",
@@ -534,7 +534,7 @@
       "tagline": "Runloop - Your AI Agent Accelerator",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "skyfire",
@@ -545,7 +545,7 @@
       "tagline": "Skyfire: The Agent Trust Stack",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "smithery",
@@ -556,7 +556,7 @@
       "tagline": "Smithery - Connect agents to services in minutes",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "stagehand",
@@ -567,7 +567,7 @@
       "tagline": "The SDK for browser agents | Stagehand",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "steel",
@@ -578,7 +578,7 @@
       "tagline": "Steel | Open-source Browser Infrastructure for AI Agents",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "stripe-agent-toolkit",
@@ -589,7 +589,7 @@
       "tagline": "Agents and AI on Stripe | Stripe Documentation",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "supermemory",
@@ -600,7 +600,7 @@
       "tagline": "supermemory, Memory and continual learning for agents",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "tavily",
@@ -611,7 +611,7 @@
       "tagline": "Tavily",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "vapi",
@@ -622,7 +622,7 @@
       "tagline": "Vapi - Build Advanced Voice AI Agents",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "vercel-ai-sdk",
@@ -633,7 +633,7 @@
       "tagline": "AI SDK",
       "open_source": true,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "vercel-sandbox",
@@ -644,7 +644,7 @@
       "tagline": "Vercel Sandbox",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     },
     {
       "slug": "zep",
@@ -655,7 +655,7 @@
       "tagline": "Zep | The unified context layer for enterprise data",
       "open_source": false,
       "added": "2026-10-15",
-      "verified": "2026-10-16"
+      "verified": "2026-10-18"
     }
   ]
 }

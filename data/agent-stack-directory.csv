@@ -1,55 +1,55 @@
 slug,name,url,category,summary,tagline,open_source,added,verified
-agent-37,Agent 37,https://www.agent37.com/,sandboxes,"Cloud sandboxes for running AI agents, positioned as lower-cost agent infrastructure.",Cloud Sandbox for Agents | Agent 37,false,2026-10-16,2026-10-16
-agentmail,AgentMail,https://www.agentmail.to/,email,"Email inbox API for agents: create, send, and receive real inboxes.",AgentMail | Email Inbox API for AI Agents,false,2026-10-15,2026-10-16
-agentops,AgentOps,https://www.agentops.ai/,observability,Tracing and debugging for AI agents.,AgentOps,false,2026-10-15,2026-10-16
-aio-sandbox,AIO Sandbox,https://sandbox.agent-infra.com/,sandboxes,"All-in-one agent sandbox with browser, shell, file access, VSCode Server, and MCP in one container.",AIO Sandbox,true,2026-10-16,2026-10-16
-anchor-browser,Anchor Browser,https://anchorbrowser.io/,browsers,Infrastructure for computer-use agents that automate web tasks at scale.,Anchor - Secure Infrastructure for Computer Use Agents,false,2026-10-15,2026-10-16
-apify,Apify,https://apify.com/,search,Marketplace of ready-made scrapers and automation tools callable by agents.,Apify: Marketplace of ready-to-run tools for AI,false,2026-10-15,2026-10-16
-arcade,Arcade,https://www.arcade.dev/,integrations,Actions runtime that lets agents act on users' behalf with governed auth.,Arcade: The Actions Runtime for Enterprise AI Agents,false,2026-10-15,2026-10-16
-auth0-for-ai-agents,Auth0 for AI Agents,https://auth0.com/solutions/ship-ai-agents,auth,"Auth0 tools for user login, token vaults, and permissions in AI agents.",Ship AI Agents Faster & More Securely | Auth0,false,2026-10-15,2026-10-16
-braintrust,Braintrust,https://www.braintrust.dev/,observability,Observability and evals platform for production agents.,Braintrust - The active observability platform for agents,false,2026-10-15,2026-10-16
-brave-search-api,Brave Search API,https://brave.com/search/api,search,Independent web search API covering a 40B+ page index.,Brave Search API | Brave,false,2026-10-15,2026-10-16
-browser-use,Browser Use,https://browser-use.com/,browsers,Open-source browser agent library plus hosted remote browsers for AI agents.,Browser Use Agents & Browser Infrastructure | Browser Use,true,2026-10-15,2026-10-16
-browserbase,Browserbase,https://www.browserbase.com/,browsers,"Hosted headless browsers for agents, with session control and an MCP server.",Browserbase,false,2026-10-15,2026-10-16
-cloudflare-sandbox-sdk,Cloudflare Sandbox SDK,https://developers.cloudflare.com/sandbox,sandboxes,Run untrusted or generated code in Linux VMs or isolated Workers on Cloudflare.,Overview · Cloudflare Sandboxes docs,false,2026-10-15,2026-10-16
-cognee,Cognee,https://www.cognee.ai/,memory,Open-source agent memory platform built on graph and vector stores.,Cognee - Open-Source Agent Memory Platform,true,2026-10-15,2026-10-16
-coinbase-x402,Coinbase x402,https://x402.org/,payments,"Open standard for internet-native payments using HTTP 402, built for agents.",x402,false,2026-10-15,2026-10-16
-composio,Composio,https://composio.dev/,integrations,"Tool calls with delegated auth across 1,500+ apps for agents.",Composio,false,2026-10-15,2026-10-16
-crewai,CrewAI,https://crewai.com/,frameworks,Framework and platform for multi-agent teams.,CrewAI,true,2026-10-15,2026-10-16
-daytona,Daytona,https://www.daytona.io/,sandboxes,Secure sandboxes for running AI-generated code.,Daytona - Secure Infrastructure for Running AI-Generated Code,true,2026-10-15,2026-10-16
-e2b,E2B,https://e2b.dev/,sandboxes,"Isolated cloud machines for agents to run code, browse, and use tools.",E2B | The Enterprise AI Agent Cloud,true,2026-10-15,2026-10-16
-elevenlabs-agents,ElevenLabs Agents,https://elevenlabs.io/agents,voice,Build and deploy chat and voice agents on ElevenLabs.,"Deploy AI Agents in Minutes, Not Months | Chat & Voice",false,2026-10-15,2026-10-16
-exa,Exa,https://exa.ai/,search,"Search API built for AI agents, with real-time web data and deep research.","Exa | Search API for AI Agents, Real-Time Web Data",false,2026-10-15,2026-10-16
-firecrawl,Firecrawl,https://www.firecrawl.dev/,search,"Turns websites into clean, LLM-ready data with crawl, scrape, and search APIs.",Firecrawl | Web Data API for AI Agents,true,2026-10-15,2026-10-16
-helicone,Helicone,https://www.helicone.ai/,observability,AI gateway with routing and LLM observability.,Helicone / AI Gateway & LLM Observability,true,2026-10-15,2026-10-16
-hyperbrowser,Hyperbrowser,https://www.hyperbrowser.ai/,browsers,"Cloud Chrome sessions, isolated sandboxes, and web data APIs for agents.",Hyperbrowser | AI agents’ gateway to the internet,false,2026-10-15,2026-10-16
-jina-reader,Jina Reader,https://jina.ai/reader,search,Converts any URL to Markdown for grounding LLMs.,Reader API - Jina AI,false,2026-10-15,2026-10-16
-kernel,Kernel,https://www.kernel.sh/,browsers,Browser infrastructure for web agents with reusable sessions and fast spin-up.,KERNEL: browser infrastructure for web agents and automations,false,2026-10-15,2026-10-16
-langfuse,Langfuse,https://langfuse.com/,observability,"Open-source tracing, evals, and observability for agents.",Langfuse: Open Source Agent Evals & Observability,true,2026-10-15,2026-10-16
-langgraph,LangGraph,https://www.langchain.com/langgraph,frameworks,Agent orchestration framework with durable execution and human-in-the-loop.,LangGraph: Agent Orchestration Framework for Reliable AI Agents,true,2026-10-15,2026-10-16
-langsmith,LangSmith,https://www.langchain.com/langsmith/observability,observability,LangChain's tracing and monitoring platform for agents and LLM apps.,LangSmith: Agent & LLM Observability Platform,false,2026-10-15,2026-10-16
-letta,Letta,https://www.letta.com/,memory,Platform for stateful agents that keep long-term memory.,Letta | Machines that learn,true,2026-10-15,2026-10-16
-mailgun,Mailgun,https://www.mailgun.com/,email,"Email API to send, receive, and track email.",Transactional Email API Service For Developers - Transactional Email API Service For Developers | Mailgun,false,2026-10-15,2026-10-16
-mastra,Mastra,https://mastra.ai/,frameworks,"TypeScript framework for agents with memory, tools, MCP, and workflows.",TypeScript AI Framework for Agents and Apps | Mastra,true,2026-10-15,2026-10-16
-mem0,Mem0,https://mem0.ai/,memory,Memory layer that lets agents learn from past interactions.,Mem0 - AI Memory Layer for your Agents & Apps | Persistent Context,true,2026-10-15,2026-10-16
-modal,Modal,https://modal.com/,sandboxes,"Serverless cloud for running, training, and serving AI workloads, including sandboxes.",Modal: The platform for production AI,false,2026-10-15,2026-10-16
-nango,Nango,https://nango.dev/,integrations,"Integration platform connecting products and agents to 1,000+ APIs.",Nango | Build integrations with AI,false,2026-10-15,2026-10-16
-openai-agents-sdk,OpenAI Agents SDK,https://openai.github.io/openai-agents-python,frameworks,OpenAI's lightweight Python framework for multi-agent workflows.,OpenAI Agents SDK,true,2026-10-15,2026-10-16
-parallel,Parallel,https://parallel.ai/,search,"Web search, extraction, and monitoring APIs built for AI.",Parallel - Web Infrastructure for AI Agents,false,2026-10-15,2026-10-16
-pickle-browser,Pickle Browser,https://picklebrowser.com/,browsers,"Local browser that opens real pages for agents, shows its work on your machine, and needs no account.","Pickle Browser: tell it what to do, watch it do it",false,2026-10-16,2026-10-16
-pipedream-connect,Pipedream Connect,https://pipedream.com/connect,integrations,"Managed auth and thousands of prebuilt tools across 3,000+ APIs.","Pipedream, The integration layer for AI agents",false,2026-10-15,2026-10-16
-pydantic-ai,Pydantic AI,https://pydantic.dev/docs/ai/overview,frameworks,Type-safe Python agent framework from the Pydantic team.,Pydantic AI | Pydantic Docs,true,2026-10-15,2026-10-16
-resend,Resend,https://resend.com/,email,Developer email API for transactional and marketing mail.,Resend · Email for developers,false,2026-10-15,2026-10-16
-retell-ai,Retell AI,https://www.retellai.com/,voice,Voice agents for inbound and outbound phone calls.,AI Voice Agents Platform to Automate Phone Calls | Retell AI,false,2026-10-15,2026-10-16
-runloop,Runloop,https://runloop.ai/,sandboxes,"Code sandboxes (Devboxes) for AI coding agents, plus evaluations.",Runloop - Your AI Agent Accelerator,false,2026-10-15,2026-10-16
-skyfire,Skyfire,https://skyfire.xyz/,payments,Identity and payment credentials for AI agents on the open web.,Skyfire: The Agent Trust Stack,false,2026-10-15,2026-10-16
-smithery,Smithery,https://smithery.ai/,integrations,Registry and hosting to connect agents to MCP tools and services.,Smithery - Connect agents to services in minutes,false,2026-10-15,2026-10-16
-stagehand,Stagehand,https://www.stagehand.dev/,browsers,SDK for browser agents with a Playwright-style API and self-healing selectors.,The SDK for browser agents | Stagehand,true,2026-10-15,2026-10-16
-steel,Steel,https://steel.dev/,browsers,Open-source browser API for running fleets of cloud browsers for agents.,Steel | Open-source Browser Infrastructure for AI Agents,true,2026-10-15,2026-10-16
-stripe-agent-toolkit,Stripe Agent Toolkit,https://docs.stripe.com/agents,payments,"Stripe's MCP server, plugins, and skills for agents that handle payments.",Agents and AI on Stripe | Stripe Documentation,false,2026-10-15,2026-10-16
-supermemory,Supermemory,https://supermemory.ai/,memory,Memory and continual learning engine for agents.,"supermemory, Memory and continual learning for agents",false,2026-10-15,2026-10-16
-tavily,Tavily,https://www.tavily.com/,search,Real-time search and content extraction APIs for agents.,Tavily,false,2026-10-15,2026-10-16
-vapi,Vapi,https://vapi.ai/,voice,"Developer platform to build, test, and deploy voice AI agents.",Vapi - Build Advanced Voice AI Agents,false,2026-10-15,2026-10-16
-vercel-ai-sdk,Vercel AI SDK,https://ai-sdk.dev/,frameworks,Unified TypeScript SDK for AI apps and agents across model providers.,AI SDK,true,2026-10-15,2026-10-16
-vercel-sandbox,Vercel Sandbox,https://vercel.com/docs/sandbox,sandboxes,Isolated Linux microVMs on Vercel for untrusted or agent-generated code.,Vercel Sandbox,false,2026-10-15,2026-10-16
-zep,Zep,https://www.getzep.com/,memory,"Context layer that unifies business data, documents, and chats for agents.",Zep | The unified context layer for enterprise data,false,2026-10-15,2026-10-16
+agent-37,Agent 37,https://www.agent37.com/,sandboxes,"Cloud sandboxes for running AI agents, positioned as lower-cost agent infrastructure.",Cloud Sandbox for Agents | Agent 37,false,2026-10-16,2026-10-18
+agentmail,AgentMail,https://www.agentmail.to/,email,"Email inbox API for agents: create, send, and receive real inboxes.",AgentMail | Email Inbox API for AI Agents,false,2026-10-15,2026-10-18
+agentops,AgentOps,https://www.agentops.ai/,observability,Tracing and debugging for AI agents.,AgentOps,false,2026-10-15,2026-10-18
+aio-sandbox,AIO Sandbox,https://sandbox.agent-infra.com/,sandboxes,"All-in-one agent sandbox with browser, shell, file access, VSCode Server, and MCP in one container.",AIO Sandbox,true,2026-10-16,2026-10-18
+anchor-browser,Anchor Browser,https://anchorbrowser.io/,browsers,Infrastructure for computer-use agents that automate web tasks at scale.,Anchor - Secure Infrastructure for Computer Use Agents,false,2026-10-15,2026-10-18
+apify,Apify,https://apify.com/,search,Marketplace of ready-made scrapers and automation tools callable by agents.,Apify: Marketplace of ready-to-run tools for AI,false,2026-10-15,2026-10-18
+arcade,Arcade,https://www.arcade.dev/,integrations,Actions runtime that lets agents act on users' behalf with governed auth.,Arcade: The Actions Runtime for Enterprise AI Agents,false,2026-10-15,2026-10-18
+auth0-for-ai-agents,Auth0 for AI Agents,https://auth0.com/solutions/ship-ai-agents,auth,"Auth0 tools for user login, token vaults, and permissions in AI agents.",Ship AI Agents Faster & More Securely | Auth0,false,2026-10-15,2026-10-18
+braintrust,Braintrust,https://www.braintrust.dev/,observability,Observability and evals platform for production agents.,Braintrust - The active observability platform for agents,false,2026-10-15,2026-10-18
+brave-search-api,Brave Search API,https://brave.com/search/api,search,Independent web search API covering a 40B+ page index.,Brave Search API | Brave,false,2026-10-15,2026-10-18
+browser-use,Browser Use,https://browser-use.com/,browsers,Open-source browser agent library plus hosted remote browsers for AI agents.,Browser Use Agents & Browser Infrastructure | Browser Use,true,2026-10-15,2026-10-18
+browserbase,Browserbase,https://www.browserbase.com/,browsers,"Hosted headless browsers for agents, with session control and an MCP server.",Browserbase,false,2026-10-15,2026-10-18
+cloudflare-sandbox-sdk,Cloudflare Sandbox SDK,https://developers.cloudflare.com/sandbox,sandboxes,Run untrusted or generated code in Linux VMs or isolated Workers on Cloudflare.,Overview · Cloudflare Sandboxes docs,false,2026-10-15,2026-10-18
+cognee,Cognee,https://www.cognee.ai/,memory,Open-source agent memory platform built on graph and vector stores.,Cognee - Open-Source Agent Memory Platform,true,2026-10-15,2026-10-18
+coinbase-x402,Coinbase x402,https://x402.org/,payments,"Open standard for internet-native payments using HTTP 402, built for agents.",x402,false,2026-10-15,2026-10-18
+composio,Composio,https://composio.dev/,integrations,"Tool calls with delegated auth across 1,500+ apps for agents.",Composio,false,2026-10-15,2026-10-18
+crewai,CrewAI,https://crewai.com/,frameworks,Framework and platform for multi-agent teams.,CrewAI,true,2026-10-15,2026-10-18
+daytona,Daytona,https://www.daytona.io/,sandboxes,Secure sandboxes for running AI-generated code.,Daytona - Secure Infrastructure for Running AI-Generated Code,true,2026-10-15,2026-10-18
+e2b,E2B,https://e2b.dev/,sandboxes,"Isolated cloud machines for agents to run code, browse, and use tools.",E2B | The Enterprise AI Agent Cloud,true,2026-10-15,2026-10-18
+elevenlabs-agents,ElevenLabs Agents,https://elevenlabs.io/agents,voice,Build and deploy chat and voice agents on ElevenLabs.,"Deploy AI Agents in Minutes, Not Months | Chat & Voice",false,2026-10-15,2026-10-18
+exa,Exa,https://exa.ai/,search,"Search API built for AI agents, with real-time web data and deep research.","Exa | Search API for AI Agents, Real-Time Web Data",false,2026-10-15,2026-10-18
+firecrawl,Firecrawl,https://www.firecrawl.dev/,search,"Turns websites into clean, LLM-ready data with crawl, scrape, and search APIs.",Firecrawl | Web Data API for AI Agents,true,2026-10-15,2026-10-18
+helicone,Helicone,https://www.helicone.ai/,observability,AI gateway with routing and LLM observability.,Helicone / AI Gateway & LLM Observability,true,2026-10-15,2026-10-18
+hyperbrowser,Hyperbrowser,https://www.hyperbrowser.ai/,browsers,"Cloud Chrome sessions, isolated sandboxes, and web data APIs for agents.",Hyperbrowser | AI agents’ gateway to the internet,false,2026-10-15,2026-10-18
+jina-reader,Jina Reader,https://jina.ai/reader,search,Converts any URL to Markdown for grounding LLMs.,Reader API - Jina AI,false,2026-10-15,2026-10-18
+kernel,Kernel,https://www.kernel.sh/,browsers,Browser infrastructure for web agents with reusable sessions and fast spin-up.,KERNEL: browser infrastructure for web agents and automations,false,2026-10-15,2026-10-18
+langfuse,Langfuse,https://langfuse.com/,observability,"Open-source tracing, evals, and observability for agents.",Langfuse: Open Source Agent Evals & Observability,true,2026-10-15,2026-10-18
+langgraph,LangGraph,https://www.langchain.com/langgraph,frameworks,Agent orchestration framework with durable execution and human-in-the-loop.,LangGraph: Agent Orchestration Framework for Reliable AI Agents,true,2026-10-15,2026-10-18
+langsmith,LangSmith,https://www.langchain.com/langsmith/observability,observability,LangChain's tracing and monitoring platform for agents and LLM apps.,LangSmith: Agent & LLM Observability Platform,false,2026-10-15,2026-10-18
+letta,Letta,https://www.letta.com/,memory,Platform for stateful agents that keep long-term memory.,Letta | Machines that learn,true,2026-10-15,2026-10-18
+mailgun,Mailgun,https://www.mailgun.com/,email,"Email API to send, receive, and track email.",Transactional Email API Service For Developers - Transactional Email API Service For Developers | Mailgun,false,2026-10-15,2026-10-18
+mastra,Mastra,https://mastra.ai/,frameworks,"TypeScript framework for agents with memory, tools, MCP, and workflows.",TypeScript AI Framework for Agents and Apps | Mastra,true,2026-10-15,2026-10-18
+mem0,Mem0,https://mem0.ai/,memory,Memory layer that lets agents learn from past interactions.,Mem0 - AI Memory Layer for your Agents & Apps | Persistent Context,true,2026-10-15,2026-10-18
+modal,Modal,https://modal.com/,sandboxes,"Serverless cloud for running, training, and serving AI workloads, including sandboxes.",Modal: The platform for production AI,false,2026-10-15,2026-10-18
+nango,Nango,https://nango.dev/,integrations,"Integration platform connecting products and agents to 1,000+ APIs.",Nango | Build integrations with AI,false,2026-10-15,2026-10-18
+openai-agents-sdk,OpenAI Agents SDK,https://openai.github.io/openai-agents-python,frameworks,OpenAI's lightweight Python framework for multi-agent workflows.,OpenAI Agents SDK,true,2026-10-15,2026-10-18
+parallel,Parallel,https://parallel.ai/,search,"Web search, extraction, and monitoring APIs built for AI.",Parallel - Web Infrastructure for AI Agents,false,2026-10-15,2026-10-18
+pickle-browser,Pickle Browser,https://picklebrowser.com/,browsers,"Local browser that opens real pages for agents, shows its work on your machine, and needs no account.","Pickle Browser: tell it what to do, watch it do it",false,2026-10-16,2026-10-18
+pipedream-connect,Pipedream Connect,https://pipedream.com/connect,integrations,"Managed auth and thousands of prebuilt tools across 3,000+ APIs.","Pipedream, The integration layer for AI agents",false,2026-10-15,2026-10-18
+pydantic-ai,Pydantic AI,https://pydantic.dev/docs/ai/overview,frameworks,Type-safe Python agent framework from the Pydantic team.,Pydantic AI | Pydantic Docs,true,2026-10-15,2026-10-18
+resend,Resend,https://resend.com/,email,Developer email API for transactional and marketing mail.,Resend · Email for developers,false,2026-10-15,2026-10-18
+retell-ai,Retell AI,https://www.retellai.com/,voice,Voice agents for inbound and outbound phone calls.,AI Voice Agents Platform to Automate Phone Calls | Retell AI,false,2026-10-15,2026-10-18
+runloop,Runloop,https://runloop.ai/,sandboxes,"Code sandboxes (Devboxes) for AI coding agents, plus evaluations.",Runloop - Your AI Agent Accelerator,false,2026-10-15,2026-10-18
+skyfire,Skyfire,https://skyfire.xyz/,payments,Identity and payment credentials for AI agents on the open web.,Skyfire: The Agent Trust Stack,false,2026-10-15,2026-10-18
+smithery,Smithery,https://smithery.ai/,integrations,Registry and hosting to connect agents to MCP tools and services.,Smithery - Connect agents to services in minutes,false,2026-10-15,2026-10-18
+stagehand,Stagehand,https://www.stagehand.dev/,browsers,SDK for browser agents with a Playwright-style API and self-healing selectors.,The SDK for browser agents | Stagehand,true,2026-10-15,2026-10-18
+steel,Steel,https://steel.dev/,browsers,Open-source browser API for running fleets of cloud browsers for agents.,Steel | Open-source Browser Infrastructure for AI Agents,true,2026-10-15,2026-10-18
+stripe-agent-toolkit,Stripe Agent Toolkit,https://docs.stripe.com/agents,payments,"Stripe's MCP server, plugins, and skills for agents that handle payments.",Agents and AI on Stripe | Stripe Documentation,false,2026-10-15,2026-10-18
+supermemory,Supermemory,https://supermemory.ai/,memory,Memory and continual learning engine for agents.,"supermemory, Memory and continual learning for agents",false,2026-10-15,2026-10-18
+tavily,Tavily,https://www.tavily.com/,search,Real-time search and content extraction APIs for agents.,Tavily,false,2026-10-15,2026-10-18
+vapi,Vapi,https://vapi.ai/,voice,"Developer platform to build, test, and deploy voice AI agents.",Vapi - Build Advanced Voice AI Agents,false,2026-10-15,2026-10-18
+vercel-ai-sdk,Vercel AI SDK,https://ai-sdk.dev/,frameworks,Unified TypeScript SDK for AI apps and agents across model providers.,AI SDK,true,2026-10-15,2026-10-18
+vercel-sandbox,Vercel Sandbox,https://vercel.com/docs/sandbox,sandboxes,Isolated Linux microVMs on Vercel for untrusted or agent-generated code.,Vercel Sandbox,false,2026-10-15,2026-10-18
+zep,Zep,https://www.getzep.com/,memory,"Context layer that unifies business data, documents, and chats for agents.",Zep | The unified context layer for enterprise data,false,2026-10-15,2026-10-18
